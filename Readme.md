@@ -9,6 +9,7 @@
 ## 运行
 
 首先需要安装pyautogu
+
 `pip install pyautogu`
 
 
