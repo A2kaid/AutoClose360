@@ -8,9 +8,9 @@
 
 ## 运行
 
-首先需要安装pyautogu
+首先需要安装pyautogui
 
-`pip install pyautogu`
+`pip install pyautogui`
 
 
 
